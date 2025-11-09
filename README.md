@@ -1,4 +1,4 @@
-# AI Agent Documentation SOP
+# AI Agent Memory SOP
 
 A simple, battle-tested framework for giving AI coding agents (Claude, ChatGPT, Cursor, etc.) persistent memory and context across sessions.
 
